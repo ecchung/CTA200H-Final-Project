@@ -1,0 +1,2 @@
+I have separated all the code so they don't clash with each other. 
+The code naming according to my project sections is pretty self-explanatory.
